@@ -1,3 +1,15 @@
+h1 {
+  text-align: center;
+}
+
 p {
   text-align: center;
+}
+
+#missao{
+  font-size: 20px;
+}
+
+em{
+  color: crimson;
 }
