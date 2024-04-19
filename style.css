@@ -10,6 +10,14 @@ p {
   font-size: 20px;
 }
 
-em{
+em strong{
   color: crimson;
+}
+
+#banner{
+  width: 100%;
+}
+
+h2{
+  text-align: center;
 }
